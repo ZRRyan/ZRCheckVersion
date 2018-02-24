@@ -28,5 +28,6 @@
 	
 	+ (void)openAppStoreWithAppId: (NSString *)appId;
 
-
+## 预览
+<img src="/updateVersion.png" height="413" width="202">
 
